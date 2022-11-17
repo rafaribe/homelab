@@ -6,4 +6,4 @@ resources:
   # - api-query
   # - busybox
   # - dnsutils
-  # - echo-server
+  - echo-server
