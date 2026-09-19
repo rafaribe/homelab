@@ -6,7 +6,7 @@ terraform {
     }
     http = {
       source  = "hashicorp/http"
-      version = "~>3"
+      version = ">= 3"
     }
     sops = {
       source  = "carlpett/sops"
